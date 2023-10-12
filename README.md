@@ -1,6 +1,6 @@
 # CoLAC: Corpus of Linguistic Acceptability for Chinese
 
-## Detail sof CoLAC
+## Details of CoLAC
 
 We present Corpus of Linguistic Acceptability in Chinese (CoLAC), the first large-scale  acceptability dataset in a non-Indo-European language handcrafted by linguists to evaluate the grammatical proficiency of language models. Our dataset consists of 7,495 sentences collected from one syntax textbook, one linguistics handbook, and 68 linguistics journal articles, all verified by native speakers of Mandarin. 
 
