@@ -10,7 +10,7 @@ Every example sentence has two labels:
 
 2) **label1**: a **crowd label**, mapped from the mean ratings from other native speakers of Mandarin Chinese. **This label is used in all our experiments.**
 
-![image](https://github.com/huhailinguist/CoLAC/assets/29844482/42b52008-d677-443e-870f-c1c8ea9904f2)
+![image](https://github.com/huhailinguist/CoLAC/assets/29844482/a906f9d4-4a12-4fe8-85a5-4b3e17d8a0fe)
 
 Statistics of CoLAC:
 
