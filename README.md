@@ -10,24 +10,25 @@ Every example sentence has two labels:
 
 2) **label1**: a **crowd label**, mapped from the mean ratings from other native speakers of Mandarin Chinese. **This label is used in all our experiments.**
 
-![image](https://github.com/huhailinguist/CoLAC/assets/29844482/a906f9d4-4a12-4fe8-85a5-4b3e17d8a0fe)
+![image](https://github.com/huhailinguist/CoLAC/assets/29844482/9a64b507-b7d3-4c9b-a45e-c1393d76e9bc)
 
 Statistics of CoLAC:
 
-![image](https://github.com/huhailinguist/CoLAC/assets/29844482/008cfe43-8405-477b-af55-6a385b1fb503)
+![image](https://github.com/huhailinguist/CoLAC/assets/29844482/a20e7550-cd10-490a-88ab-f32a9ad8124c)
+
 
 ## Baselines
 
 We ran several baselines, using XLM-R, the Chinese RoBERTa, variants of InstructGPT, ChatGPT and mTk. Results are shown below.
 
-![image](https://github.com/huhailinguist/CoLAC/assets/29844482/a95c6b0b-8d20-43e7-b85e-d704d76bb86f)
+![image](https://github.com/huhailinguist/CoLAC/assets/29844482/4489c6bc-7eb6-4aa5-8d3d-3788fdf348cb)
 
-![image](https://github.com/huhailinguist/CoLAC/assets/29844482/24827ef1-cb48-42b0-a338-0c24b25b8d64)
+![image](https://github.com/huhailinguist/CoLAC/assets/29844482/f0da7d19-d1d2-4b10-b45c-d97e43e03d7a)
+
 
 ## Cross-lingual transfer learning
 
-![image](https://github.com/huhailinguist/CoLAC/assets/29844482/472bdf6c-96a5-4520-8b2f-40c89c90c8d7)
-
+![image](https://github.com/huhailinguist/CoLAC/assets/29844482/d9979197-b264-4b39-8023-65e85d409f54)
 
 For details of the experiments, see our paper. 
 
