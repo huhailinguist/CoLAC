@@ -2,7 +2,7 @@
 
 ## Details of CoLAC
 
-We present Corpus of Linguistic Acceptability in Chinese (CoLAC), the first large-scale  acceptability dataset in a non-Indo-European language handcrafted by linguists to evaluate the grammatical proficiency of language models. Our dataset consists of 7,495 sentences collected from one syntax textbook, one linguistics handbook, and 68 linguistics journal articles, all verified by native speakers of Mandarin. 
+We present [Corpus of Linguistic Acceptability in Chinese (CoLAC)](https://arxiv.org/abs/2305.14091), the first large-scale  acceptability dataset in a non-Indo-European language handcrafted by linguists to evaluate the grammatical proficiency of language models. Our dataset consists of 7,495 sentences collected from one syntax textbook, one linguistics handbook, and 68 linguistics journal articles, all verified by native speakers of Mandarin. 
 
 Every example sentence has two labels:
 
@@ -29,6 +29,8 @@ We ran several baselines, using XLM-R, the Chinese RoBERTa, variants of Instruct
 ![image](https://github.com/huhailinguist/CoLAC/assets/29844482/472bdf6c-96a5-4520-8b2f-40c89c90c8d7)
 
 
+For details of the experiments, see our paper. 
+
 
 ## Citation
 
@@ -39,6 +41,7 @@ We ran several baselines, using XLM-R, the Chinese RoBERTa, variants of Instruct
       year={2023},
       eprint={2305.14091},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2305.14091}
 }
 ```
